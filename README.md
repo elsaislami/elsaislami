@@ -4,7 +4,7 @@
 
 🎓 Graduated with a Master's of Business Informatics. (Aug 2020). Already graduated with a Bachelor's of Informatics. (Aug 2019)
 
-😄 I am a web developer with a passion for building well-designed and user-friendly interfaces. I am proficient in Vue JS, React Js and React Native. I have worked on projects that range from small to large.
+😄 I am a software developer with a passion for building well-designed and user-friendly interfaces. I am proficient in React Native, React Js and Vue Js. I have worked on projects that range from small to large.
 
 I am confident that my skills and experience would be a great asset to your team.
 
