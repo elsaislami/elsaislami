@@ -1,12 +1,10 @@
 
 
-👋🏻 Hi, my name is Elsa
+👋🏻 Hi there! I'm Elsa, a software developer with a Master's degree in Business Informatics (graduated in Aug 2020) and a Bachelor's degree in Informatics (graduated in Aug 2019).
 
-🎓 Graduated with a Master's of Business Informatics. (Aug 2020). Already graduated with a Bachelor's of Informatics. (Aug 2019)
+😄 My passion lies in crafting well-designed and user-friendly interfaces. Proficient in React Native, React Js, and Vue Js, I've tackled projects of various scales, from small to large.
 
-😄 I am a software developer with a passion for building well-designed and user-friendly interfaces. I am proficient in React Native, React Js and Vue Js. I have worked on projects that range from small to large.
-
-I am confident that my skills and experience would be a great asset to your team.
+I'm confident that my skills and experience would make a valuable addition to your team!
 
 <!--
 **elsaislami/elsaislami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
